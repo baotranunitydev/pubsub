@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.pubsub",
+  "displayName": "Unity UI Manager",
+  "version": "1.0.1",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+  },
+  "type": "library",
+  "description": "Library for UI management in Unity's uGUI."
+}
